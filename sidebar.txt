@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[muc:home|Door43 (muc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-muc|d43-muc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-muc/archive/master.zip|d43-muc.zip]]
+
+**Recent Changes**
+{{changes>ns = muc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/muc|Ethnologue data]]
+
